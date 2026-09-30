@@ -1,0 +1,31 @@
+/* Favicon & Icon Files Configuration */
+
+{
+  "icons": [
+    {
+      "name": "favicon.ico",
+      "path": "public/favicon.ico",
+      "size": "32x32",
+      "type": "image/x-icon"
+    },
+    {
+      "name": "apple-touch-icon.png",
+      "path": "public/apple-touch-icon.png",
+      "size": "180x180",
+      "type": "image/png"
+    },
+    {
+      "name": "favicon-192.png",
+      "path": "public/favicon-192.png",
+      "size": "192x192",
+      "type": "image/png"
+    },
+    {
+      "name": "favicon-512.png",
+      "path": "public/favicon-512.png",
+      "size": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "description": "Icon files are based on the StudyCore AI logo. Use the SVG logo (frontend/src/assets/studycore-logo.svg) to generate these icon sizes."
+}
